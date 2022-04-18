@@ -1,0 +1,10 @@
+
+Step to Create NV Magnetometry program.
+
+1) Simulation NV axis //
+2) Check Validation of transition
+3) Convert simulated ODESR to actual B, theta, phi
+4) Fit the experimental ODESR to obtain transition frequencies.
+5) Convert experimental frequencies to actual B, theta, phi.
+
+------------ end -----------------
